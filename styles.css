@@ -1,0 +1,42 @@
+.ronew {
+    color: crimson;
+}
+
+.words {
+    text-align: center;
+}
+/* how do I select for children of specific elements*/
+
+ul{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    list-style: none; 
+    padding: 0;
+    font-size: 69pt;
+}
+
+ul li{
+   border: outset;
+   display: inline-block;
+   padding-left: 20;
+}
+
+img{
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+#pic1 {
+    margin-left: 50%;
+}
+
+#pic2 {
+    margin: auto;
+}
+
+
+#pic3 {
+margin: 0%;
+}
